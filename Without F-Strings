@@ -7,4 +7,4 @@ print("My name is {}, I am {} years old, and I live in {}.".format(name, age, ci
 print("My name is %s, I am %d years old, and I live in %s." % (name, age, city))
 
 #%s - For strings/text (like names, words): auto-converts numbers to text if needed.
-%d - For integers only (like age, count): errors if you pass a float/decimal.
+''' %d - For integers only (like age, count): errors if you pass a float/decimal.'''
