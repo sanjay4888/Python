@@ -1,0 +1,11 @@
+# Using .format() - Python 3.0+
+name = "Arjun"
+age = 21
+city = "Chennai"
+print("My name is {}, I am {} years old, and I live in {}.".format(name, age, city))
+
+# Using % operator (older style, avoid for new code)
+print("My name is %s, I am %d years old, and I live in %s." % (name, age, city))
+
+#%s - For strings/text (like names, words): auto-converts numbers to text if needed.
+%d - For integers only (like age, count): errors if you pass a float/decimal.
