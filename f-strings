@@ -1,0 +1,5 @@
+name = "Arjun"
+age = 21
+city = "Chennai"
+
+print (f"My Name is {name},I am {age}years old, and I live in {city}.")
