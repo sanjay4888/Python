@@ -1,4 +1,3 @@
-# Using .format() - Python 3.0+
 name = "Arjun"
 age = 21
 city = "Chennai"
