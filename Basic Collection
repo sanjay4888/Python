@@ -1,0 +1,8 @@
+numbers = [10,20,30,40,50]
+colors = ("red","green","blue")
+unique_values = {1,2,3,4}
+student = {"name":"sanjay","age":"23","city":"chennai"}
+print("List:",numbers)
+print("Tuple:",colors)
+print("set:",unique_values)
+print("Dict:",student)
