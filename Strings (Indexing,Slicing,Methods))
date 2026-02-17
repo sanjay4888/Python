@@ -1,0 +1,8 @@
+s="Python Is Awesome"
+
+print("Original :",repr(s))
+print("First Char(After Strip):",s.strip()[0])
+print("Slice 'Python' :",s.strip()[0:6])
+print("Lower case :",s.lower())
+print("Upper case :",s.upper())
+print("Split into Words :",s.split())
